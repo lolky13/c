@@ -1,2 +1,2 @@
 # c
-pri=ojects in c/c++
+projects in c/c++
